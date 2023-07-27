@@ -8,8 +8,7 @@
 <!-- /!\ do not modify above this line -->
 
 # helpdesk
-
-TODO: add repo description.
+Smoothtel Helpdesk Odoo App
 
 <!-- /!\ do not modify below this line -->
 
