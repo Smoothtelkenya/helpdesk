@@ -7,8 +7,7 @@
 
 <!-- /!\ do not modify above this line -->
 
-# helpdesk
-Smoothtel Helpdesk Odoo App
+# Smoothtel Helpdesk Odoo App
 
 <!-- /!\ do not modify below this line -->
 
